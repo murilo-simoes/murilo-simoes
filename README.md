@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Hello World! 👋
 
-### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
-## 😄 Pronouns: He/Him
+#### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
+#### 😄 Pronouns: He/Him
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/murilo-rodrigues-634978207/">
