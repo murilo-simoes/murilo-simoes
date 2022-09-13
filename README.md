@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 # Hello World! 👋
 
 #### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
+#### :brazil:
 #### 😄 Pronouns: He/Him
 
+<br>
 <div id="badges">
   <a href = "https://www.linkedin.com/in/murilo-rodrigues-634978207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
