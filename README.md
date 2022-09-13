@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <img src="coding.gif" width = "325px" align="right">
 
-### Hello World! 👋
-# 😄 Pronouns: He/Him
-# 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
+# Hello World! 👋
+### 😄 Pronouns: He/Him
+### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
 <div id="badges">
   <a href = "https://www.linkedin.com/in/murilo-rodrigues-634978207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
