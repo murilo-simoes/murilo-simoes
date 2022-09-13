@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 # Hello World! 👋
 
 <h3><i>Brazilian</i></h3>
+
 #### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
 #### 😄 Pronouns: He/Him
 
