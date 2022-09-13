@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **murilo-simoes/murilo-simoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,21 +16,20 @@ Here are some ideas to get you started:
 -->
 <img src="coding.gif" width = "325px" align="right">
 
-###Olá Mundo!
-
+### Hello World! 👋
+# 😄 Pronouns: He/Him
+# 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
 <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://www.linkedin.com/in/murilo-rodrigues-634978207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+## Desenvolvedor Web
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- ❤ Estudante de Informática para Internet
+- 💙 Fã de Dark Souls
+- 👩‍💻 Estudando TypeScript
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
