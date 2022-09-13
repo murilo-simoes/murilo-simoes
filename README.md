@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 # Hello World! 👋
 
+#### 🇧🇷
 #### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
-#### :brazil:
 #### 😄 Pronouns: He/Him
 
 <br>
