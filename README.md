@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="coding.gif" width = "325px" border-radius="10px" align="right" style="border-radius:15px;">
+<img src="coding.gif" width = "325px" border-radius="10px" align="right">
 
 # Hello World! 👋
 
