@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="coding.gif" width = "325px" align="right">
+<img src="coding.gif" width = "325px" border-radius="10px" align="right">
 
 # Hello World! 👋
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-## Desenvolvedor Web
+## Web Developer
 
-- ❤ Estudante de Informática para Internet
-- 💙 Fã de Dark Souls
-- 👩‍💻 Estudando TypeScript
+- ❤ I.T Student
+- 👩‍💻 Studying TypeScript
+- 💙 Dark Souls Fan
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
