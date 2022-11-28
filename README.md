@@ -48,10 +48,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-
-// <div align = "left">
-// <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-simoes&show_icons=true&theme=gotham&count_private=true"/>
-// <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=murilo-simoes&show_icons=true&theme=gotham" />
-// </div>
+----------------
