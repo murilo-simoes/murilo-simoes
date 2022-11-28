@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ---
 
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-simoes&show_icons=true&theme=gotham&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=murilo-simoes&show_icons=true&theme=gotham" />
-</div>
+// <div align = "left">
+// <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-simoes&show_icons=true&theme=gotham&count_private=true"/>
+// <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=murilo-simoes&show_icons=true&theme=gotham" />
+// </div>
