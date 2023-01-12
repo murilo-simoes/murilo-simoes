@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3><i>Brazilian</i></h3>
 
-#### 🔭 I’m currently working on https://github.com/lchampz/1Tostao-refactor
+#### 🔭 I’m currently working on https://github.com/murilo-simoes/portfolio
 #### 😄 Pronouns: He/Him
 
 <br>
