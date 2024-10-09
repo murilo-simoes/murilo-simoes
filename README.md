@@ -6,7 +6,7 @@
 
 <h3><i>Brazilian</i></h3>
 
-#### 🔭 I’m currently working on https://github.com/murilo-simoes/portfolio
+#### 🔭 I’m currently working on https://github.com/murilo-simoes/loopino
 #### 😄 Pronouns: He/Him
 
 <br>
