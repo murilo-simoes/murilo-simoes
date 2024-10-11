@@ -19,7 +19,7 @@
 ## Web Developer
 
 - ❤ I.T Student
-- 👩‍💻 Studying TypeScript
+- 👩‍💻 Improving Java Skills
 - 💙 Dark Souls Fan
 
 <div>
